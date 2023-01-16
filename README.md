@@ -52,5 +52,22 @@ Depois, ele deverá perguntar em qual categoria essa comida se encaixa, com algu
 
 Por fim, caso você não queira mais adicionar nada na lista de compras e responder não na primeira pergunta, ele irá exibir uma lista com todos os itens agrupados.
 ## Desafio 06
+
+Você deverá criar a opção de remover algum item da lista, que será exibida junto à pergunta de “você deseja adicionar uma comida na lista de compras”?
+
+A partir daí, caso a pessoa escolha essa opção, o programa irá imprimir os elementos presentes na lista atual, e a pessoa deverá escrever qual deles deseja remover.
+
+Depois disso, o programa irá remover o elemento da lista e imprimir a confirmação de que o item realmente não está mais lá.
+
+Por fim, ele voltará para o ciclo inicial de perguntas.
+
 ## Desafio 07
+Crie a sua própria calculadora, porém com um detalhe muito importante: cada operação deverá ser uma função diferente no seu código.
+
+Primeiramente, a pessoa deverá escolher uma opção de operação impressa pelo programa na tela.
+
+Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa imprimirá o resultado da operação em questão.
+
+As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair. Nessa última, o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".
+
 
